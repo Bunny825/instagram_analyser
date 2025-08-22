@@ -1,0 +1,20 @@
+{
+    "profile": {
+      "username": "nasa",
+      "followers_count": 97700000
+    },
+    "posts": [
+      {
+        "id": "1",
+        "caption": "A stunning view of the Milky Way from the Hubble Space Telescope.",
+        "likes_count": 1200000,
+        "comments_count": 5000
+      },
+      {
+        "id": "2",
+        "caption": "Our Perseverance rover takes a selfie on Mars.",
+        "likes_count": 2500000,
+        "comments_count": 12000
+      }
+    ]
+  }
