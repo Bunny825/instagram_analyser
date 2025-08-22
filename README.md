@@ -2,6 +2,10 @@
 
 This project is a full-stack application that analyzes an Instagram account, provides AI-driven content insights, and generates a new post idea complete with a unique thumbnail.
 
+
+NOTE:As in the document of the plan you specified, i have only taken my facebook page and instagram bussiness account then created the Instagram graph API key just for my account as you have specified.I want to mention again that we can have a mechanism that can access the instagram channel of anyone and can then analyse but for that we need OAuth 2.0 which is complex is also out of the scope of GenAI and the main Aim of this project.
+
+
 ## The Process Flow
 
 The application provides a seamless experience for the user by coordinating a frontend interface with a powerful backend API. Here is the step-by-step flow:
